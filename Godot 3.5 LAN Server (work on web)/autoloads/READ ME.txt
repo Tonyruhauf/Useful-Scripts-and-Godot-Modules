@@ -1,0 +1,2 @@
+If you don't need the multiplayer LAN server to work on web exports, you can go with "Default Network".
+Instead, if you need it to work on web exports, use "Web Network".
